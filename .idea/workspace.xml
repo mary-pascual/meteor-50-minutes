@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="71a53c05-8cf0-486a-8b13-426154c0c1b7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.meteor/packages" afterPath="$PROJECT_DIR$/app/.meteor/packages" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.meteor/versions" afterPath="$PROJECT_DIR$/app/.meteor/versions" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tasklist.html" afterPath="$PROJECT_DIR$/app/tasklist.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tasklist.js" afterPath="$PROJECT_DIR$/app/tasklist.js" />
     </list>
@@ -33,8 +35,8 @@
       <file leaf-file-name="tasklist.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/tasklist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="423">
+              <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -43,8 +45,8 @@
       <file leaf-file-name="tasklist.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/tasklist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+            <state relative-caret-position="759">
+              <caret line="23" column="80" lean-forward="false" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -81,8 +83,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/app/.meteor/local/build/programs/server/node_modules" />
-    <handled-path value="$PROJECT_DIR$/app/.meteor/local/build/programs/server/npm/node_modules" />
+    <handled-path value="$PROJECT_DIR$/app/.meteor/local/.build389800.build/programs/server/node_modules" />
+    <handled-path value="$PROJECT_DIR$/app/.meteor/local/.build389800.build/programs/server/npm/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-14" />
@@ -329,16 +331,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/tasklist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" column="50" lean-forward="false" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        <state relative-caret-position="759">
+          <caret line="23" column="80" lean-forward="false" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="80" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/tasklist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="423">
+          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding />
         </state>
       </provider>
